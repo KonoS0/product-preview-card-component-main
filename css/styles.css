@@ -59,7 +59,7 @@ main{
 
 .image-hero{
     width: 100%;
-    background-image: url('images/image-product-desktop.jpg');
+    background-image: url('product-preview-card-component-main/images/image-product-desktop.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 10px 0 0 10px;
@@ -131,7 +131,7 @@ main{
     .image-hero{
         width: 100%;
         min-height: 230px;
-        background-image: url('images/image-product-mobile.jpg');
+        background-image: url('product-preview-card-component-main/images/image-product-mobile.jpg');
         background-size: cover;
         background-position: center;
         border-radius: 10px 10px 0 0;
